@@ -16,7 +16,7 @@ I build production ML systems and full-stack products — taking models and idea
 
 <a href="https://dacostaagyei.com">
   <img src="https://github-readme-stats.vercel.app/api?username=dacosta-agyei&show_icons=true&hide_border=true&theme=transparent&icon_color=3B82F6&title_color=8B5CF6&text_color=94a3b8&hide=issues" height="160" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dacosta-agyei&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6&text_color=94a3b8&langs_count=8&hide=assembly,html,css,php,objective-c,blade,jupyter%20notebook,ruby,smarty,makefile" height="160" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dacosta-agyei&layout=compact&hide_border=true&theme=transparent&title_color=8B5CF6&text_color=94a3b8&langs_count=8&hide=assembly,html,css,php,objective-c,blade,jupyter%20notebook,ruby,smarty,makefile&size_weight=0.5&count_weight=0.5" height="160" alt="Top languages" />
 </a>
 
 <br /><br />
